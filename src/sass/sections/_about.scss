@@ -28,7 +28,7 @@
       height: 100%;
       align-items: center;
       justify-content: center;
-      filter: grayscale(50%);
+      // filter: grayscale(30%);
 
       @include respond(tab-land) {
         height: 100%;
