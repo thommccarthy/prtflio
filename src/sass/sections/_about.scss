@@ -28,13 +28,12 @@
       height: 100%;
       align-items: center;
       justify-content: center;
-      // filter: grayscale(30%);
 
       @include respond(tab-land) {
         height: 100%;
       }
       @include respond(tab-port-sm) {
-        padding-bottom: 6.4rem;
+        padding-bottom: 6.2rem;
       }
     }
 
